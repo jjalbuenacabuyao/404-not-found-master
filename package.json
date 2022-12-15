@@ -4,7 +4,8 @@
   "description": "<!-- Please update value in the {}  -->",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
